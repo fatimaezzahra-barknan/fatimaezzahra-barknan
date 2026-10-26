@@ -42,9 +42,16 @@ Prediction of durum and soft wheat yields at province and commune level and anal
 
 ---
 
+
 ### Reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatima.barknan@gmail.com)
-💼 [LinkedIn]( https://www.linkedin.com/in/fatima-ezzahra-barknan-0a53b7281/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-ezzahra-barknan-0a53b7281/ )
+
+
+
+
+
+
 <!--
 **fatimaezzahra-barknan/fatimaezzahra-barknan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
